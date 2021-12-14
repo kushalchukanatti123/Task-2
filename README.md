@@ -11,9 +11,7 @@ Fragment 2: Will support two actions :
                      1) Add a new item with Name.
 
 ## Screenshots of the app built
-![s1](https://user-images.githubusercontent.com/56756612/145989590-c04f571a-5170-4e7d-8955-0fc595139e17.png)
-![s2](https://user-images.githubusercontent.com/56756612/145989592-e9487339-fe16-4437-9003-97268a87c5f5.png)
-![s3](https://user-images.githubusercontent.com/56756612/145989584-4bec7f85-3cfd-4c7f-8797-5f1a29e55ca6.png)
+
 
                      
                      
